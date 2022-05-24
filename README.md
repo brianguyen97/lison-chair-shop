@@ -1,3 +1,3 @@
 # lison-chair-shop
 
-This is a Udemy project used for learning CSS and web design by Jonas Schedtmann.
+This is a simple website design that we create in Jonas Schedtmann's HTML & CSS course. Used to help practice our CSS skills and imeplement web design rules and guidelines.
