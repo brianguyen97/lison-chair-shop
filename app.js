@@ -1,3 +1,5 @@
+// Accordian JS Logic
+
 const icons = document.querySelectorAll(".icon");
 
 for (let icon of icons) {
